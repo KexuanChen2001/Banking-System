@@ -1,4 +1,3 @@
-//PROJECT!!!!!
 //Programmer: Oliver,1930026012
 //Date:12.26
 public abstract class Account implements IAccount, java.io.Serializable {
